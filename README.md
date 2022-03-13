@@ -40,6 +40,7 @@ This is an ongoing internal struggle for me.
 
 - [Incremental backup tool](https://github.com/MC-DeltaT/IncrementalBackup2). This is for sure my most usable project that serves a legitimate need (I use it to back up all my personal data).
 - [Generic serialisation library for C++](https://github.com/MC-DeltaT/SerialisePP). Another polished and feature-complete project that just has some really cool C++.
+- [Simple unit test framework for C++](https://github.com/MC-DeltaT/SimpleTest). Quite handy for testing small projects.
 
 ### Contact
 
