@@ -1,6 +1,6 @@
 # Hi, I'm Reece!
 
-### I'm a soon-to-be-graduating computer science student at Curtin University, in Perth, Western Australia.
+### I'm a recently-graduated computer science student, in Perth, Western Australia.
 
 <br/>
 
