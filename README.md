@@ -1,6 +1,6 @@
 # Hi, I'm Reece!
 
-### I'm a recently-graduated computer science student, in Perth, Western Australia.
+### I'm a computer science graduate in Sydney, Australia.
 
 <br/>
 
