@@ -41,7 +41,6 @@ This is an ongoing internal struggle for me.
 - [Generic serialisation library for C++](https://github.com/MC-DeltaT/SerialisePP)
 - [Simple unit test framework for C++](https://github.com/MC-DeltaT/SimpleTest)
 - [CPU performance demos](https://github.com/MC-DeltaT/cpu-performance-demos)
-- [Modern Python package template](https://github.com/MC-DeltaT/python-package-test)
 
 ### Contact
 
